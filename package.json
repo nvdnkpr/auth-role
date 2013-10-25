@@ -1,0 +1,12 @@
+{
+  "name": "auth-role",
+  "description": "Create collections of permissions.",
+  "author": "Alex Mingoia <talk@alexmingoia.com>",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexmingoia/auth-role.git"
+  },
+  "keywords": ["acl", "roles", "permissions", "role"],
+  "license": "MIT"
+}

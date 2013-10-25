@@ -1,0 +1,12 @@
+{
+  "name": "auth-role",
+  "description": "Create collections of permissions.",
+  "repo": "alexmingoia/auth-role",
+  "author": "Alex Mingoia <talk@alexmingoia.com>",
+  "keywords": ["acl", "roles", "permissions", "role"],
+  "version": "1.0.0",
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
