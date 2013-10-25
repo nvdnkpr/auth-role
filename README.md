@@ -1,6 +1,6 @@
 # auth-role
 
-Create collections of
+Create named collections of
 [permissions](https://github.com/alexmingoia/auth-permission).
 
 ## Installation

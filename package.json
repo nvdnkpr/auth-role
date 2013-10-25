@@ -1,6 +1,6 @@
 {
   "name": "auth-role",
-  "description": "Create collections of permissions.",
+  "description": "Create named collections of permissions.",
   "author": "Alex Mingoia <talk@alexmingoia.com>",
   "version": "1.0.0",
   "repository": {

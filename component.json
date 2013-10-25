@@ -1,6 +1,6 @@
 {
   "name": "auth-role",
-  "description": "Create collections of permissions.",
+  "description": "Create named collections of permissions.",
   "repo": "alexmingoia/auth-role",
   "author": "Alex Mingoia <talk@alexmingoia.com>",
   "keywords": ["acl", "roles", "permissions", "role"],
