@@ -5,11 +5,22 @@ function Role(name) {
     return new Role(name);
   }
 
-  this.name = name;
-  this.permissions = [];
+  this.name = function() {
+    return name;
+  };
+
+  this.collection = [];
 };
 
 Role.prototype.allow = function(permission) {
-  this.permissions.push(permission);
+  this.collection.push(permission);
   return this;
+};
+
+Role.prototype.permissions = function() {
+  return this.collection;
+};
+
+Role.prototype.toJSON = function() {
+  return this.name();
 };
