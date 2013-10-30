@@ -40,12 +40,12 @@ Create a new Role with given `name`.
 
 Allow given [permission](https://github.com/alexmingoia/auth-permission).
 
-### role.name
+### role.name()
 
-The name of the role.
+Return the name of the role.
 
-### role.permissions
+### role.permissions()
 
-Array of the role's allowed permissions.
+Return the role's allowed permissions.
 
 ## MIT Licensed
